@@ -137,6 +137,56 @@ module arrow_y(l)
 }
 
 //--------------------------------------------------------------------------------------------------
+// Z dimensional arrow
+//--------------------------------------------------------------------------------------------------
+module arrow_z(l)
+{
+    line_w = 0.1;
+    arrow_w = 1;
+    arrow_h = 0.3;
+
+    // Line
+    translate([0, 0, l / 2])
+    {
+        rotate([0, 0, 0])
+        {
+            color([0.4, 0.4, 0.4])
+            cylinder(l - arrow_w * 2, line_w, line_w, true);
+        }
+    }
+
+    // Left arrow
+    translate([0, 0, arrow_w])
+    {
+        rotate([0, 180, 0])
+        {
+            color([0.4, 0.4, 0.4])
+            cylinder(arrow_w, arrow_h, 0, false);
+        }
+    }
+
+    // Right arrow
+    translate([0, 0, l - arrow_w])
+    {
+        rotate([0, 0, 0])
+        {
+            color([0.4, 0.4, 0.4])
+            cylinder(arrow_w, arrow_h, 0, false);
+        }
+    }
+
+    // Text
+    translate([0.5, 0, l/3])
+    {
+        rotate([90 ,0, 90])
+        {
+            color([0.4, 0.4, 0.4])
+            text(str(l), size=1);
+        }
+    }
+}
+
+//--------------------------------------------------------------------------------------------------
 // parallelogram
 //--------------------------------------------------------------------------------------------------
 module parallelogram(x = 12, y = 12, z = 1, xd = 0)
