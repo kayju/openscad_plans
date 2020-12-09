@@ -706,27 +706,42 @@ Wire:
 450 ft
 76 + 63 = 139 = 150ft
 
-* Wire 600 ft : $90
-https://www.amazon.com/dp/B08FDVF7RC/ref=sspa_dk_hqp_detail_aax_0?psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSFgzOE1XVlBFRExSJmVuY3J5cHRlZElkPUEwMzMyNjcyMldEM01FTFcySUdQRCZlbmNyeXB0ZWRBZElkPUEwNjUzODE0MzAwMlZES05FVE8wTyZ3aWRnZXROYW1lPXNwX2hxcF9zaGFyZWQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
+* Wire 600 ft : $45.99 (400ft) X 2 = $92
+https://www.amazon.com/gp/product/B08DFPK92T/ref=ox_sc_act_title_1?smid=AWBF18OIWWCF7&psc=1
 
-* End(CR23) : 40 : $46
-https://www.amazon.com/Muzata-Tensioner-Stainless-Installation-CR23/dp/B07MSLWGFZ/ref=pd_bxgy_img_2/145-7789753-7081701?_encoding=UTF8&pd_rd_i=B07MSLWGFZ&pd_rd_r=c92ce7b1-a212-4958-8407-16dc8bfc3108&pd_rd_w=2VAvi&pd_rd_wg=T2fpx&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=5222S4VEZQFBKMJPPD2C&psc=1&refRID=5222S4VEZQFBKMJPPD2C
+* End(CR23) : 40
+4" : $35.99 (40) 
+https://www.amazon.com/Muzata-Threaded-Terminal-Fitting-Stainless/dp/B07X69BWBY/ref=sr_1_17?dchild=1&keywords=Muzata%2BCR30&qid=1607473682&sr=8-17&th=1
 
-* Dead End(CR24) : 40 : $78
+6" : $19.99 (10)
+https://www.amazon.com/Threaded-Tension-Terminal-Stainless-CR39/dp/B07RDHNWG6/ref=sr_1_9?dchild=1&keywords=Muzata+CR30&qid=1607473583&sr=8-9
+
+* Dead End(CR24) : 40
+$34.99 X 2 (40) = $69.98
 https://www.amazon.com/Muzata-Stainless-handcrimp-Stemball-Railing/dp/B078H4W8GZ/ref=sr_1_1_sspa?dchild=1&keywords=Muzata+CR24&qid=1605090029&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSklSR1Y1OVFGRVZYJmVuY3J5cHRlZElkPUEwODc3NzgxMU9QUVBDM0pGTkFHOCZlbmNyeXB0ZWRBZElkPUEwODIwNjU1M0JIOU5GTkFTRUpZUSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
 
-* Corner 45 Degree: 40 : $46
+* Corner 45 Degree: 40 : $45.99
 https://www.amazon.com/CKE-Stainless-Beveled-Protector-Sleeves/dp/B08DTV1FC1/ref=sr_1_4_sspa?dchild=1&keywords=CKE&qid=1605088202&sr=8-4-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFLQzJWSlpKNlk0TkgmZW5jcnlwdGVkSWQ9QTAwNjQ4NjEzN1lOVUJORE5LSTNIJmVuY3J5cHRlZEFkSWQ9QTAwNDI3NjEyN0dHWk5GMU1PNUNGJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
 
-* protect: 180: $90
-https://www.amazon.com/CKE-Stainless-Protector-Sleeves-Balustrade/dp/B08CGVYV8B/ref=sr_1_17?dchild=1&keywords=CKE&qid=1605088434&sr=8-17
+* Protector Sleeves: 220
+
+$39.99 X 2 = $79.98 : 200
+https://www.amazon.com/Muzata-Stainless-Protective-Balustrade-CR13/dp/B07426BBKH?ref_=ast_sto_dp
+
+$17.99 : 40
+https://www.amazon.com/Muzata-Stainless-Protective-Balustrade-CK16/dp/B07JN2D5KV?ref_=ast_sto_dp
+
+* 30 Degree Angled Beveled Washer : 40
+$45.99 : 50
+https://www.amazon.com/Professional-Stainless-Balustrade-Railings-Aluminum/dp/B082YQYHQB/ref=sr_1_13_sspa?dchild=1&keywords=Angle+Beveled+Washer+for+1%2F8%22&qid=1607475095&s=hi&sr=1-13-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVlo0N1A5SkdBTTJHJmVuY3J5cHRlZElkPUEwNzM4MDkxMTNBOExKMElPSURJSSZlbmNyeXB0ZWRBZElkPUEwMTA2NTk2M0s4SVlSU0M1U1Q2OSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
 
 * Tool
-Hydraulic Cable Crimper: $86
-https://www.amazon.com/CKE-Upgraded-Hydraulic-Stainless-Fittings/dp/B08D63SCH4/ref=sr_1_3_sspa?dchild=1&keywords=Hydraulic+Hand+Crimper+Tool&qid=1605090747&s=hi&sr=1-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExU0NSNzZLSzQ4RTNIJmVuY3J5cHRlZElkPUEwNTU4NDgyMjJXUDFGRVE3RlNLUiZlbmNyeXB0ZWRBZElkPUEwMjM1MDUwRk1FVUtOTk9CUExOJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+Hydraulic Cable Crimper: $56.98
+https://www.amazon.com/Goplus-Hydraulic-Crimper-Terminal-Crimping/dp/B00ZA2P3XM/ref=sr_1_7?dchild=1&keywords=Hydraulic+Cable+Crimper&qid=1607475871&s=hi&sr=1-7
 
-Drill guide: $50
-https://www.amazon.com/Railing-Horizontal-Aluminum-Drilling-Template/dp/B08KW611W8/ref=sr_1_7?dchild=1&keywords=30+degree+drill+guide&qid=1605129251&sr=8-7
+Drill guide: 
+30 & 45 : 29.99 X 2 = $59.98
+https://www.amazon.com/Muzata-Installation-Horizontal-Drilling-Template/dp/B083Q8K2N5/ref=sr_1_4?dchild=1&keywords=30%2Bdegree%2Bdrill%2Bguide&qid=1607476940&s=hi&sr=1-4&th=1
 
-$500
+
 */
