@@ -14,7 +14,7 @@ PoleThick = 3.5;
 // Post 1
 translate([-PoleThick / 2, -PoleThick / 2, 0])
 {
-    board(PoleThick, PoleThick, 9 * 12, 0.5, 0.5, 0);
+    board(PoleThick, PoleThick, 12 * 12, 0.5, 0.5, 0);
 }
 dimension(PoleThick, PoleThick, 9 * 12, 0.5, 0.5, 0, 10, PartY);
 
@@ -25,12 +25,12 @@ translate([StairWidth + 3.5 / 2, 20 - 3.5 / 2, 0])
 
 translate([StairWidth + 3.5 / 2, -StairWidth - PoleThick - PoleThick / 2, 0])
 {
-    board(PoleThick, PoleThick, 12 * 12, 0.5, 0.5, 0);
+    board(PoleThick, PoleThick, 9 * 12, 0.5, 0.5, 0);
 }
 
 translate([-StairWidth - 3.5 - 3.5 / 2, -StairWidth - PoleThick - PoleThick / 2, 0])
 {
-    board(PoleThick, PoleThick, 9 * 12, 0.5, 0.5, 0);
+    board(PoleThick, PoleThick, 10 * 12, 0.5, 0.5, 0);
 }
 
 translate([-StairWidth - 3.5 - 3.5 / 2, 20 - 3.5 / 2, 0])
@@ -94,7 +94,7 @@ module Stair02()
 
 module Stair03()
 {
-    color([0, 0.4, 0.4])
+    color([1, 0.4, 0.4])
     stair_board(PoleThick / 2, 15 - PoleThick / 2, PoleThick / 2, 15 + PoleThick / 2, StairWidth  + PoleThick / 2 + Thick, 15 + PoleThick / 2, StairWidth + PoleThick / 2 + Thick, -PoleThick / 2, 1.5);
 }
 
